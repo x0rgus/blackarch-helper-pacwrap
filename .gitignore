@@ -1,0 +1,11 @@
+# Build artifacts
+*.pkg.tar.zst
+*-package.log
+*-namcap.log
+*.log
+src/*
+pkg/*
+
+# Migration script
+migrate.sh
+migrate2.sh
